@@ -1,0 +1,8 @@
+/***********************Directories***************************/
+#dir	sound
+#dir	sound\music
+
+/* Sound Driver Data */
+#split	0x00020286,0x000209F7,sound\music\Mus81 - Lvl10.bin
+#split	0x000209F8,0x00020C15,sound\music\Mus92 - Lvl10F.bin
+#split	0x000388FC,0x000398B9,sound\z80.bin

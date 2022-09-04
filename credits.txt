@@ -1,0 +1,4 @@
+Giving credit where credit is due:
+
+Beta Filter: Disassembling SegaSonic Bros.
+MDT: Extracting SMPS data from interleaved ROM.
