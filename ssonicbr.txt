@@ -4,5 +4,24 @@
 
 /* Sound Driver Data */
 #split	0x00020286,0x000209F7,sound\music\Mus81 - Lvl10.bin
+#split	0x00020C16,0x0002172B,sound\music\Mus82 - Lvl20.bin
+#split	0x000219B4,0x00022051,sound\music\Mus83 - Demo.bin
+#split	0x00022052,0x0002255F,sound\music\Mus84.bin
+#split	0x00022560,0x0002292D,sound\music\Mus85 - Top Rank.bin
+#split	0x0002292E,0x00022C09,sound\music\Mus86 - Select.bin
+#split	0x00022C0A,0x00023725,sound\music\Mus87 - Lvl20B.bin
+#split	0x00023726,0x00023EB1,sound\music\Mus88 - Lvl10B.bin
+#split	0x00023EB2,0x000243E5,sound\music\Mus89 - Lvl30B.bin
+#split	0x000243E6,0x00024C4B,sound\music\Mus8A - Lvl0.bin
+#split	0x00024E68,0x0002568F,sound\music\Mus8B - Lvl40.bin
+#split	0x000258B8,0x00025B23,sound\music\Mus8C - Results.bin
+#split	0x00025B24,0x00025BFF,sound\music\Mus8D - Game Over 1P.bin
+#split	0x00025C00,0x00025D41,sound\music\Mus8E - Game Over 2P.bin
+#split	0x00025D42,0x000261C5,sound\music\Mus8F - Lvl30.bin
+#split	0x000263D2,0x0002649B,sound\music\Mus90.bin
+#split	0x00024C4C,0x00024E67,sound\music\Mus91 - Lvl0F.bin
 #split	0x000209F8,0x00020C15,sound\music\Mus92 - Lvl10F.bin
+#split	0x0002172C,0x000219B3,sound\music\Mus93 - Lvl20F.bin
+#split	0x000261C6,0x000263D1,sound\music\Mus94 - Lvl30F.bin
+#split	0x00025690,0x000258B7,sound\music\Mus95 - Lvl40F.bin
 #split	0x000388FC,0x000398B9,sound\z80.bin
